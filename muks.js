@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var streams = require("streams");
+var stream = require("stream");
 
 module.exports = function(){
 
