@@ -1,0 +1,25 @@
+{
+  "name": "muks",
+  "version": "1.0.0",
+  "description": "multiplexes a stream",
+  "main": "muks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-muks.git"
+  },
+  "keywords": [
+    "stream",
+    "mux",
+    "multiplex",
+    "streams"
+  ],
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-muks/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-muks#readme"
+}
